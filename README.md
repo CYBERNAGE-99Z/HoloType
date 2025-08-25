@@ -91,3 +91,5 @@ This project allows you to type on a virtual keyboard by simply pinching your th
 - Commit changes (git commit -m "Added feature")
 - Push to branch (git push origin feature-name)
 - Open a Pull Request
+
+### Made with ❤️ by Akshansh Roy
