@@ -1,6 +1,6 @@
-# ✋ Virtual Gesture Keyboard
+# ✋ Holo Type
 
-A hand gesture–controlled virtual keyboard built using OpenCV, MediaPipe, and Python.
+Holo Type is a hand gesture–controlled virtual keyboard built using OpenCV, MediaPipe, and Python.
 This project allows you to type on a virtual keyboard by simply pinching your thumb and index finger over a key on the screen — no physical keyboard required!
 
 ## 🚀 Features
