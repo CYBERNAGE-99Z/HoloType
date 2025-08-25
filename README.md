@@ -73,10 +73,10 @@ This project allows you to type on a virtual keyboard by simply pinching your th
 
 ## 📌 Future Improvements
 
-✅ Add multiple language support (Hindi, Spanish, etc.)
-✅ Word suggestions / auto-complete
-✅ Customizable keyboard layouts
-✅ Voice output for typed text
+- ✅ Add multiple language support (Hindi, Spanish, etc.)
+- ✅ Word suggestions / auto-complete
+- ✅ Customizable keyboard layouts
+- ✅ Voice output for typed text
 
 ## 🤝 Contributing
 
