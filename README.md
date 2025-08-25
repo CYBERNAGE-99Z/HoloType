@@ -46,8 +46,8 @@ This project allows you to type on a virtual keyboard by simply pinching your th
 
 4. Run the project
 
-        python gesture_keyboard.py # if using a .py file
-        else run the ipynb cell to run the project.
+        python gesture_keyboard.py     * If using a .py file
+        else run the cells for the .ipynb file to run the project.
 
 
 ## 🎮 How to Use
