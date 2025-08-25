@@ -6,18 +6,13 @@ This project allows you to type on a virtual keyboard by simply pinching your th
 ## 🚀 Features
 
 - 🖐️ Hand Tracking – Detects and tracks your hand using MediaPipe Hands
-
 - 🎹 Virtual Keyboard – On-screen QWERTY keyboard with numbers, alphabets, and special keys.
-
 - ✍️ Typing via Pinch Gesture – Pinch index and thumb to "press" a key.
-
 - 🔠 Caps/Shift Toggle – Switch between uppercase and lowercase.
-
 - ⌫ Backspace, Space, Enter, and Clear – Special functional keys included.
-
 - 📄 Text Box Overlay – Shows typed text at the top of the screen (supports multiline).
-
 - 🎨 Modern UI – Semi-transparent keys, highlight effects, and smooth typing box.
+
 
 ## 🛠️ Tech Stack
 
@@ -78,10 +73,10 @@ This project allows you to type on a virtual keyboard by simply pinching your th
 
 ## 📌 Future Improvements
 
-- ✅ Add multiple language support (Hindi, Spanish, etc.)
-- ✅ Word suggestions / auto-complete
-- ✅ Customizable keyboard layouts
-- ✅ Voice output for typed text
+✅ Add multiple language support (Hindi, Spanish, etc.)
+✅ Word suggestions / auto-complete
+✅ Customizable keyboard layouts
+✅ Voice output for typed text
 
 ## 🤝 Contributing
 
